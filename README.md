@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/Sagnik120/Leetcode/tree/master/0868-binary-gap) |
 ## Matrix
 |  |
 | ------- |
