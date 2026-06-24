@@ -9,6 +9,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sagnik120/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Sagnik120/Leetcode/tree/master/1720-decode-xored-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Sagnik120/Leetcode/tree/master/1720-decode-xored-array) |
 ## Matrix
 |  |
 | ------- |
