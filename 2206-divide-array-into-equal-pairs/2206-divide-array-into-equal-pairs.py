@@ -1,8 +1,10 @@
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
-        cnt=Counter(nums)
+        set1=set()
 
-        for feq in cnt.values():
-            if feq & 1 !=0:
-                return False
-        return True
+        for num in nums:
+            if num in set1:
+                set1.remove(num)
+            else:
+                set1.add(num)
+        return len(set1)==0
