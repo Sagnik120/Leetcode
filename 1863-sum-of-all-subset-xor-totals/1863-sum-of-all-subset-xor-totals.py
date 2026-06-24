@@ -1,7 +1,19 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        total_or=0
+        ans=0
 
-        for num in nums:
-            total_or|=num
-        return total_or*(1<<(len(nums)-1))
+        def dfs(i,xor_val):
+            nonlocal ans
+
+            if i==len(nums):
+                ans+=xor_val
+                return
+            
+            #don't take
+            dfs(i+1,xor_val)
+
+            #take
+            dfs(i+1,xor_val^nums[i])
+
+        dfs(0,0)
+        return ans
