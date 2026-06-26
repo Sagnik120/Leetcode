@@ -54,6 +54,7 @@
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Sagnik120/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sagnik120/Leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik120/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
@@ -148,4 +151,8 @@
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Sagnik120/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
