@@ -17,6 +17,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -128,4 +131,12 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
