@@ -10,8 +10,6 @@ class Solution:
                     sum1+=1
             if(sum1>=k):
                 ans+=p
-                p*=2
-            else:
-                p*=2
+            p*=2
         return ans
             
