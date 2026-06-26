@@ -23,6 +23,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
@@ -60,6 +61,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
