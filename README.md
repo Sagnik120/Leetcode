@@ -35,6 +35,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Sagnik120/Leetcode/tree/master/0031-next-permutation) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
 |  |
@@ -143,6 +144,7 @@
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
