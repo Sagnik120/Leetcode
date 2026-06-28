@@ -14,6 +14,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Sagnik120/Leetcode/tree/master/1720-decode-xored-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/Sagnik120/Leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -114,6 +115,7 @@
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
 | ------- |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sagnik120/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
