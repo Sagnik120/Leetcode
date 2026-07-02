@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -238,17 +239,20 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
@@ -301,6 +305,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -340,4 +345,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
