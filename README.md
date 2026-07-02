@@ -259,6 +259,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sagnik120/Leetcode/tree/master/0050-powx-n) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
@@ -323,4 +324,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
