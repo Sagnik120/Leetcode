@@ -135,6 +135,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sagnik120/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Sagnik120/Leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Sagnik120/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -258,6 +259,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sagnik120/Leetcode/tree/master/0050-powx-n) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
