@@ -119,6 +119,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
