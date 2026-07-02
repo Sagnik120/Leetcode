@@ -17,6 +17,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sagnik120/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -145,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
