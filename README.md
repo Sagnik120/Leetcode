@@ -12,6 +12,7 @@
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Sagnik120/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/Sagnik120/Leetcode/tree/master/0896-monotonic-array) |
@@ -120,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sagnik120/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sagnik120/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
