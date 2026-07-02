@@ -261,6 +261,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sagnik120/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
@@ -328,4 +329,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
