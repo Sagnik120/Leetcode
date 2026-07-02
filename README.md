@@ -139,6 +139,7 @@
 | [0050-powx-n](https://github.com/Sagnik120/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
+| [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -273,6 +274,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sagnik120/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
@@ -333,4 +335,5 @@
 | [0002-add-two-numbers](https://github.com/Sagnik120/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sagnik120/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
