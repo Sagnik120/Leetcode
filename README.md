@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
@@ -327,6 +328,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sagnik120/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
