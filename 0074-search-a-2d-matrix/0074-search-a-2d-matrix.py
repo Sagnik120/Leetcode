@@ -15,7 +15,7 @@ class Solution:
             if value==target:
                 return True
             elif value< target:
-                left+=1
+                left=mid+1
             else:
-                right-=1
+                right=mid-1
         return False
