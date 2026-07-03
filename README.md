@@ -47,6 +47,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sagnik120/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sagnik120/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -309,6 +311,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -323,14 +326,17 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## String Matching
 |  |
 | ------- |
@@ -355,4 +361,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
