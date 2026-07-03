@@ -17,6 +17,7 @@
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Sagnik120/Leetcode/tree/master/0860-lemonade-change) |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
