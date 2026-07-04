@@ -83,6 +83,7 @@
 | [0027-remove-element](https://github.com/Sagnik120/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sagnik120/Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Sagnik120/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Sagnik120/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -251,6 +252,7 @@
 | [0043-multiply-strings](https://github.com/Sagnik120/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sagnik120/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
