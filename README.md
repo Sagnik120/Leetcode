@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sagnik120/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sagnik120/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sagnik120/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sagnik120/Leetcode/tree/master/0031-next-permutation) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sagnik120/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sagnik120/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Sagnik120/Leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sagnik120/Leetcode/tree/master/0058-length-of-last-word) |
@@ -292,6 +294,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sagnik120/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
