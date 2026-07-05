@@ -45,6 +45,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -148,6 +149,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Sagnik120/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -173,6 +175,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sagnik120/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
