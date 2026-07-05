@@ -106,6 +106,7 @@
 | [0696-count-binary-substrings](https://github.com/Sagnik120/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sagnik120/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
@@ -171,6 +172,7 @@
 | [0657-robot-return-to-origin](https://github.com/Sagnik120/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -296,6 +298,7 @@
 | [0696-count-binary-substrings](https://github.com/Sagnik120/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Sagnik120/Leetcode/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sagnik120/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -371,6 +374,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
