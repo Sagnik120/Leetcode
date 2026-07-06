@@ -47,6 +47,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sagnik120/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1089-duplicate-zeros](https://github.com/Sagnik120/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -118,6 +119,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Sagnik120/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Sagnik120/Leetcode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Sagnik120/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
