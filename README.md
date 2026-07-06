@@ -53,6 +53,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -121,6 +122,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Sagnik120/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -281,6 +284,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -444,6 +448,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sagnik120/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
