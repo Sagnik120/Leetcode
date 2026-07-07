@@ -56,6 +56,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -124,6 +125,7 @@
 | [1089-duplicate-zeros](https://github.com/Sagnik120/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -258,6 +260,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -454,6 +457,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
