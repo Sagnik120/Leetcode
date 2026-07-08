@@ -89,6 +89,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Sagnik120/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
