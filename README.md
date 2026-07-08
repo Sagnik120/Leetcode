@@ -85,6 +85,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -153,6 +154,7 @@
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sagnik120/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2540-minimum-common-value](https://github.com/Sagnik120/Leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sagnik120/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sagnik120/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
