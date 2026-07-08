@@ -6,7 +6,7 @@ class Solution:
         right=len(nums)-1
         avg=0   
         while right>=left:
-            avg=(nums[right]+nums[left])/1
+            avg=(nums[right]+nums[left])/2
             s.add(avg)
             right-=1
             left+=1
