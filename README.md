@@ -44,6 +44,7 @@
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Sagnik120/Leetcode/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sagnik120/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -373,6 +374,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sagnik120/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/Sagnik120/Leetcode/tree/master/0705-design-hashset) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -632,6 +634,7 @@
 | [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/Sagnik120/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Indexed Tree
 |  |
@@ -661,4 +664,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sagnik120/Leetcode/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Sagnik120/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
