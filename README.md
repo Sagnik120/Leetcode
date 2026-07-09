@@ -23,6 +23,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sagnik120/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sagnik120/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -294,6 +295,7 @@
 | [0015-3sum](https://github.com/Sagnik120/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sagnik120/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sagnik120/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -318,6 +320,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -332,6 +335,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sagnik120/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sagnik120/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
@@ -424,6 +428,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sagnik120/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
