@@ -24,6 +24,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sagnik120/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sagnik120/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sagnik120/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -296,6 +297,7 @@
 | [0018-4sum](https://github.com/Sagnik120/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Sagnik120/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sagnik120/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -338,6 +340,7 @@
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sagnik120/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Sagnik120/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
