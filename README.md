@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Sagnik120/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sagnik120/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sagnik120/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -368,6 +369,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Sagnik120/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sagnik120/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sagnik120/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -414,6 +416,7 @@
 | [0500-keyboard-row](https://github.com/Sagnik120/Leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Sagnik120/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sagnik120/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sagnik120/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Sagnik120/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Sagnik120/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Sagnik120/Leetcode/tree/master/0696-count-binary-substrings) |
