@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sagnik120/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sagnik120/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Sagnik120/Leetcode/tree/master/0868-binary-gap) |
@@ -471,6 +473,7 @@
 | [0039-combination-sum](https://github.com/Sagnik120/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sagnik120/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sagnik120/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
