@@ -268,6 +268,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -424,6 +425,7 @@
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sagnik120/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Sagnik120/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
@@ -478,6 +480,7 @@
 | [0051-n-queens](https://github.com/Sagnik120/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sagnik120/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
