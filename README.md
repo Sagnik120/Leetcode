@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/Sagnik120/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sagnik120/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sagnik120/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sagnik120/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sagnik120/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Sagnik120/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
@@ -469,6 +470,7 @@
 | [0022-generate-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sagnik120/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sagnik120/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Sagnik120/Leetcode/tree/master/0051-n-queens) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
