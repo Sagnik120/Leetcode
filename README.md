@@ -137,6 +137,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -499,6 +500,7 @@
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sagnik120/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -697,6 +699,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
