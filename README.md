@@ -59,6 +59,7 @@
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Sagnik120/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Sagnik120/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Sagnik120/Leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sagnik120/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -337,6 +338,7 @@
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Sagnik120/Leetcode/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sagnik120/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sagnik120/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -412,6 +414,7 @@
 | [0819-most-common-word](https://github.com/Sagnik120/Leetcode/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/Sagnik120/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sagnik120/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -638,6 +641,7 @@
 | [0704-binary-search](https://github.com/Sagnik120/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sagnik120/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
