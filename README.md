@@ -127,6 +127,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Sagnik120/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
@@ -267,6 +268,7 @@
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sagnik120/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -333,6 +335,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -483,6 +486,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
