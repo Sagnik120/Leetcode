@@ -1,17 +1,10 @@
 class Solution:
     def firstUniqueEven(self, nums: list[int]) -> int:
-        for i in range(len(nums)):
-            if nums[i] % 2 != 0:
-                continue
+        frq={}
+        for num in nums:
+            frq[num]=frq.get(num,0)+1
 
-            unique = True
-
-            for j in range(len(nums)):
-                if i != j and nums[i] == nums[j]:
-                    unique = False
-                    break
-
-            if unique:
-                return nums[i]
-
+        for num in nums:
+            if num & 1==0 and frq[num]==1:
+                return num
         return -1
