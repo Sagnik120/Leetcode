@@ -64,6 +64,7 @@
 | [0905-sort-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sagnik120/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Sagnik120/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Sagnik120/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -419,6 +420,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sagnik120/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Sagnik120/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -489,6 +491,7 @@
 | [0859-buddy-strings](https://github.com/Sagnik120/Leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sagnik120/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Sagnik120/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/Sagnik120/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Sagnik120/Leetcode/tree/master/0942-di-string-match) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
