@@ -1,8 +1,10 @@
 class Solution:
     def countKDifference(self, nums: List[int], k: int) -> int:
+        frq={}
         ans=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if abs(nums[i]-nums[j])==k:
-                    ans+=1
+        for num in nums:
+            ans+=frq.get(num-k,0)
+            ans+=frq.get(num+k,0)
+
+            frq[num]=frq.get(num,0)+1
         return ans
