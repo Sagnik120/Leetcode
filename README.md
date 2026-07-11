@@ -141,6 +141,7 @@
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sagnik120/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -381,6 +382,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Sagnik120/Leetcode/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
@@ -495,6 +497,7 @@
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3803-count-residue-prefixes](https://github.com/Sagnik120/Leetcode/tree/master/3803-count-residue-prefixes) |
@@ -689,6 +692,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
