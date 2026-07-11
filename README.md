@@ -362,6 +362,7 @@
 | [0819-most-common-word](https://github.com/Sagnik120/Leetcode/tree/master/0819-most-common-word) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sagnik120/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -410,6 +411,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/Sagnik120/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sagnik120/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Sagnik120/Leetcode/tree/master/2032-two-out-of-three) |
@@ -479,6 +481,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sagnik120/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Sagnik120/Leetcode/tree/master/2000-reverse-prefix-of-word) |
