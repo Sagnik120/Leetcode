@@ -149,6 +149,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sagnik120/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/Sagnik120/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Sagnik120/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Sagnik120/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -509,6 +510,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sagnik120/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3803-count-residue-prefixes](https://github.com/Sagnik120/Leetcode/tree/master/3803-count-residue-prefixes) |
 | [3842-toggle-light-bulbs](https://github.com/Sagnik120/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Sagnik120/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
