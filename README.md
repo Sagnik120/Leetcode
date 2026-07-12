@@ -591,6 +591,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Sagnik120/Leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sagnik120/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/Sagnik120/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Sagnik120/Leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Sagnik120/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sagnik120/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
