@@ -318,6 +318,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sagnik120/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -601,6 +602,7 @@
 | [1370-increasing-decreasing-string](https://github.com/Sagnik120/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sagnik120/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Sagnik120/Leetcode/tree/master/1496-path-crossing) |
+| [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -820,6 +822,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sagnik120/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sagnik120/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Geometry
 |  |
 | ------- |
