@@ -141,6 +141,7 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sagnik120/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -388,6 +389,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sagnik120/Leetcode/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Sagnik120/Leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -508,6 +510,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Sagnik120/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sagnik120/Leetcode/tree/master/3731-find-missing-elements) |
@@ -586,6 +589,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sagnik120/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/Sagnik120/Leetcode/tree/master/3794-reverse-string-prefix) |
