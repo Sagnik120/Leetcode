@@ -130,6 +130,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Sagnik120/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sagnik120/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Sagnik120/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
@@ -389,6 +390,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -507,6 +509,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sagnik120/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
