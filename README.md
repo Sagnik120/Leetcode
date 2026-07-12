@@ -316,6 +316,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -346,6 +347,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik120/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -696,6 +698,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Stack
 |  |
@@ -886,4 +889,8 @@
 |  |
 | ------- |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
