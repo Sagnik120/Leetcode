@@ -127,6 +127,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Sagnik120/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -512,6 +513,7 @@
 | [2815-max-pair-sum-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sagnik120/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
