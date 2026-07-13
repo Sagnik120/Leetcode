@@ -57,6 +57,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/Sagnik120/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Sagnik120/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Sagnik120/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Sagnik120/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sagnik120/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
@@ -610,6 +611,7 @@
 | [0771-jewels-and-stones](https://github.com/Sagnik120/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Sagnik120/Leetcode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Sagnik120/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/Sagnik120/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Sagnik120/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Sagnik120/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
