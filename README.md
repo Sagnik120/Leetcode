@@ -595,6 +595,7 @@
 | [0482-license-key-formatting](https://github.com/Sagnik120/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Sagnik120/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sagnik120/Leetcode/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Sagnik120/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sagnik120/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sagnik120/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sagnik120/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
