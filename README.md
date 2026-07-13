@@ -374,6 +374,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -644,6 +645,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Sagnik120/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -719,6 +721,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Sagnik120/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sagnik120/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Sagnik120/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Recursion
