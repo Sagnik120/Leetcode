@@ -125,6 +125,7 @@
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sagnik120/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -324,6 +325,7 @@
 | [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sagnik120/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -445,6 +447,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sagnik120/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -570,6 +573,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sagnik120/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sagnik120/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -854,6 +858,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sagnik120/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sagnik120/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -922,6 +927,7 @@
 |  |
 | ------- |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
