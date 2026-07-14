@@ -384,6 +384,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -658,6 +659,7 @@
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sagnik120/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sagnik120/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -812,6 +814,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Sagnik120/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
