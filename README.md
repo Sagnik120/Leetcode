@@ -404,6 +404,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sagnik120/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -869,6 +870,7 @@
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sagnik120/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/Sagnik120/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
