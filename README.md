@@ -690,6 +690,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Sagnik120/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
@@ -843,6 +844,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Sagnik120/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sagnik120/Leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
