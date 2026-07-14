@@ -1,10 +1,16 @@
 class Solution:
     def minSubsequence(self, nums: List[int]) -> List[int]:
-        ans=[]
-        nums.sort()
+        nums.sort(reverse=True)
 
-        for i in range(len(nums)-1,-1,-1):
-            ans.append(nums[i])
-            if sum(ans)>sum(nums[:i]):
+        ans = []
+        curr = 0
+        total = sum(nums)
+
+        for num in nums:
+            ans.append(num)
+            curr += num
+
+            if curr > total - curr:
                 break
+
         return ans
