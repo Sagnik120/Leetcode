@@ -117,6 +117,7 @@
 | [1995-count-special-quadruplets](https://github.com/Sagnik120/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sagnik120/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Sagnik120/Leetcode/tree/master/2032-two-out-of-three) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -429,6 +430,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -819,6 +821,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sagnik120/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Sagnik120/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -966,6 +969,7 @@
 | [0561-array-partition](https://github.com/Sagnik120/Leetcode/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Sagnik120/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sagnik120/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Memoization
 |  |
 | ------- |
