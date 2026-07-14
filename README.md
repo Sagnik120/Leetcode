@@ -401,6 +401,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sagnik120/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sagnik120/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -865,6 +866,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Sagnik120/Leetcode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sagnik120/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sagnik120/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
