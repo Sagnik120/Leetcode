@@ -413,6 +413,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sagnik120/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sagnik120/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sagnik120/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1029,6 +1030,7 @@
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sagnik120/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
 | ------- |
