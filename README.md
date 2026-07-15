@@ -20,6 +20,7 @@
 | [0051-n-queens](https://github.com/Sagnik120/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sagnik120/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sagnik120/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sagnik120/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -349,6 +350,7 @@
 | [0022-generate-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sagnik120/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -857,6 +859,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sagnik120/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Sagnik120/Leetcode/tree/master/0455-assign-cookies) |
