@@ -1,9 +1,14 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        ans=0
-        count=1
-        while n>=0:
-            n-=count
-            ans+=1
-            count+=1
-        return ans-1
+        l, h = 0, n
+
+        while l <= h:
+            mid = (l + h) // 2
+            coins = mid * (mid + 1) // 2
+
+            if coins <= n:
+                l = mid + 1
+            else:
+                h = mid - 1
+
+        return h
