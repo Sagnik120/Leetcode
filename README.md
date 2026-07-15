@@ -92,6 +92,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -310,6 +311,7 @@
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -450,6 +452,7 @@
 | [1122-relative-sort-array](https://github.com/Sagnik120/Leetcode/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sagnik120/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sagnik120/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -924,6 +927,7 @@
 | [0875-koko-eating-bananas](https://github.com/Sagnik120/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sagnik120/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -960,6 +964,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
