@@ -332,6 +332,7 @@
 | [0043-multiply-strings](https://github.com/Sagnik120/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sagnik120/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sagnik120/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sagnik120/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Sagnik120/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -398,6 +399,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Sagnik120/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Sagnik120/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sagnik120/Leetcode/tree/master/0415-add-strings) |
@@ -1065,6 +1067,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sagnik120/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
