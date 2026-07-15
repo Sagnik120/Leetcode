@@ -4,7 +4,7 @@ class Solution:
         h=num
 
         while  l<=h:
-            mid=l+((h-l)>>2)
+            mid=l+((h-l)>>1)
             s=mid*mid
             if s==num:
                 return True
