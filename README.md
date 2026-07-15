@@ -103,6 +103,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -455,6 +456,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Sagnik120/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -925,6 +927,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sagnik120/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sagnik120/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
