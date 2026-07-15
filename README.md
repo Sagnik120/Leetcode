@@ -380,6 +380,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/Sagnik120/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Sagnik120/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sagnik120/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -903,6 +904,7 @@
 | [0278-first-bad-version](https://github.com/Sagnik120/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Sagnik120/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
