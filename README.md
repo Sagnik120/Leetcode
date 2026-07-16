@@ -409,6 +409,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Sagnik120/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Sagnik120/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sagnik120/Leetcode/tree/master/0415-add-strings) |
@@ -844,6 +845,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Sagnik120/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Stack
@@ -1102,5 +1104,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
