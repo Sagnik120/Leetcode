@@ -473,6 +473,7 @@
 | [2582-pass-the-pillow](https://github.com/Sagnik120/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Sagnik120/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2652-sum-multiples](https://github.com/Sagnik120/Leetcode/tree/master/2652-sum-multiples) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
