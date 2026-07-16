@@ -152,6 +152,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sagnik120/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sagnik120/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Sagnik120/Leetcode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sagnik120/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sagnik120/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -461,6 +462,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik120/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sagnik120/Leetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
