@@ -87,6 +87,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/Sagnik120/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sagnik120/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/Sagnik120/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Sagnik120/Leetcode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sagnik120/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -436,6 +437,7 @@
 | [0908-smallest-range-i](https://github.com/Sagnik120/Leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/Sagnik120/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
