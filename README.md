@@ -172,6 +172,7 @@
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
@@ -344,6 +345,7 @@
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sagnik120/Leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -372,6 +374,7 @@
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sagnik120/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Sagnik120/Leetcode/tree/master/2582-pass-the-pillow) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -502,6 +505,7 @@
 | [2600-k-items-with-the-maximum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2652-sum-multiples](https://github.com/Sagnik120/Leetcode/tree/master/2652-sum-multiples) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Sagnik120/Leetcode/tree/master/3099-harshad-number) |
