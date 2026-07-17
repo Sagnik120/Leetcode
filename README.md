@@ -462,6 +462,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sagnik120/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sagnik120/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Sagnik120/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik120/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Sagnik120/Leetcode/tree/master/1399-count-largest-group) |
