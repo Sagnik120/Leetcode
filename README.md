@@ -101,6 +101,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sagnik120/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sagnik120/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sagnik120/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Sagnik120/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -460,6 +461,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sagnik120/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sagnik120/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/Sagnik120/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sagnik120/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Sagnik120/Leetcode/tree/master/1399-count-largest-group) |
@@ -1087,6 +1089,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1037-valid-boomerang](https://github.com/Sagnik120/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Sagnik120/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Linked List
 |  |
 | ------- |
