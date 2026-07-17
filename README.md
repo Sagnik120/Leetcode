@@ -452,6 +452,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sagnik120/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/Sagnik120/Leetcode/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sagnik120/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Sagnik120/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/Sagnik120/Leetcode/tree/master/1323-maximum-69-number) |
@@ -764,6 +765,7 @@
 | [1002-find-common-characters](https://github.com/Sagnik120/Leetcode/tree/master/1002-find-common-characters) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sagnik120/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/Sagnik120/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sagnik120/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sagnik120/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
