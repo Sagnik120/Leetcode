@@ -504,6 +504,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3099-harshad-number](https://github.com/Sagnik120/Leetcode/tree/master/3099-harshad-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sagnik120/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
