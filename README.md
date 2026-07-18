@@ -122,6 +122,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Sagnik120/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sagnik120/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -583,6 +584,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sagnik120/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Sagnik120/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -723,6 +725,7 @@
 | [1370-increasing-decreasing-string](https://github.com/Sagnik120/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/Sagnik120/Leetcode/tree/master/1399-count-largest-group) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/Sagnik120/Leetcode/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
