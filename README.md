@@ -196,6 +196,7 @@
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sagnik120/Leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3467-transform-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sagnik120/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -585,6 +586,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sagnik120/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3467-transform-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -629,6 +631,7 @@
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sagnik120/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sagnik120/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sagnik120/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
