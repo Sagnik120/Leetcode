@@ -173,6 +173,7 @@
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sagnik120/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Sagnik120/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Sagnik120/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Sagnik120/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -597,6 +598,7 @@
 | [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Sagnik120/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Sagnik120/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Sagnik120/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
