@@ -149,6 +149,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik120/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sagnik120/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sagnik120/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -589,6 +590,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sagnik120/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sagnik120/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sagnik120/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -733,6 +735,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sagnik120/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Sagnik120/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Sagnik120/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -914,6 +917,7 @@
 | [1291-sequential-digits](https://github.com/Sagnik120/Leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/Sagnik120/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sagnik120/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sagnik120/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Sagnik120/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -970,6 +974,7 @@
 | [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sagnik120/Leetcode/tree/master/0326-power-of-three) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
