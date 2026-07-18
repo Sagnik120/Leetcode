@@ -161,6 +161,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sagnik120/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sagnik120/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -355,6 +356,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sagnik120/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -383,6 +385,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2562-find-the-array-concatenation-value](https://github.com/Sagnik120/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2582-pass-the-pillow](https://github.com/Sagnik120/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -584,6 +587,7 @@
 | [2418-sort-the-people](https://github.com/Sagnik120/Leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Sagnik120/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Sagnik120/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2578-split-with-minimum-sum](https://github.com/Sagnik120/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Sagnik120/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1103,6 +1107,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Sagnik120/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/Sagnik120/Leetcode/tree/master/2974-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
