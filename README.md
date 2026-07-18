@@ -150,6 +150,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sagnik120/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sagnik120/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sagnik120/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -387,6 +388,7 @@
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Sagnik120/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1518-water-bottles](https://github.com/Sagnik120/Leetcode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sagnik120/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik120/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -587,6 +589,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sagnik120/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sagnik120/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sagnik120/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -730,6 +733,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sagnik120/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Sagnik120/Leetcode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Sagnik120/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Sagnik120/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sagnik120/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
