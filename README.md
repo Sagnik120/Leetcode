@@ -49,6 +49,7 @@
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sagnik120/Leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Sagnik120/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Sagnik120/Leetcode/tree/master/0561-array-partition) |
@@ -538,6 +539,7 @@
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sagnik120/Leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Sagnik120/Leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Sagnik120/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sagnik120/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sagnik120/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sagnik120/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1077,6 +1079,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Sagnik120/Leetcode/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Sagnik120/Leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
