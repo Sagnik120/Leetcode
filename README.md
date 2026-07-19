@@ -850,6 +850,7 @@
 | [1002-find-common-characters](https://github.com/Sagnik120/Leetcode/tree/master/1002-find-common-characters) |
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sagnik120/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/Sagnik120/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sagnik120/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sagnik120/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -997,6 +998,7 @@
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sagnik120/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Sagnik120/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Sagnik120/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -1034,6 +1036,7 @@
 | [0942-di-string-match](https://github.com/Sagnik120/Leetcode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Sagnik120/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Sagnik120/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sagnik120/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Sagnik120/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Sagnik120/Leetcode/tree/master/1323-maximum-69-number) |
@@ -1221,6 +1224,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
