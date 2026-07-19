@@ -30,6 +30,7 @@
 | [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sagnik120/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sagnik120/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sagnik120/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sagnik120/Leetcode/tree/master/0162-find-peak-element) |
@@ -461,6 +462,7 @@
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sagnik120/Leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sagnik120/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sagnik120/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -1000,6 +1002,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sagnik120/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sagnik120/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
