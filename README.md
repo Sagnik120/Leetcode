@@ -473,6 +473,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Sagnik120/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sagnik120/Leetcode/tree/master/0326-power-of-three) |
@@ -1191,6 +1192,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Sagnik120/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Sagnik120/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sagnik120/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
