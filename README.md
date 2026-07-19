@@ -462,6 +462,7 @@
 | [0069-sqrtx](https://github.com/Sagnik120/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
