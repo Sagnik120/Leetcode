@@ -461,6 +461,7 @@
 | [0066-plus-one](https://github.com/Sagnik120/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sagnik120/Leetcode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sagnik120/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -681,6 +682,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sagnik120/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sagnik120/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sagnik120/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sagnik120/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -803,6 +805,7 @@
 | [0079-word-search](https://github.com/Sagnik120/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Sagnik120/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Sagnik120/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Sagnik120/Leetcode/tree/master/0205-isomorphic-strings) |
