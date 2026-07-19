@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/Sagnik120/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sagnik120/Leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sagnik120/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Sagnik120/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sagnik120/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -464,6 +465,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Sagnik120/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sagnik120/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Sagnik120/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sagnik120/Leetcode/tree/master/0326-power-of-three) |
@@ -921,6 +923,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Sagnik120/Leetcode/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/Sagnik120/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -1237,6 +1240,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sagnik120/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
