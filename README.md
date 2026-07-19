@@ -425,6 +425,7 @@
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sagnik120/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sagnik120/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -475,6 +476,7 @@
 | [0204-count-primes](https://github.com/Sagnik120/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Sagnik120/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Sagnik120/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Sagnik120/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Sagnik120/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -1141,6 +1143,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sagnik120/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sagnik120/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
