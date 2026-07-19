@@ -314,6 +314,7 @@
 | [0078-subsets](https://github.com/Sagnik120/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Sagnik120/Leetcode/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Sagnik120/Leetcode/tree/master/0389-find-the-difference) |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Sagnik120/Leetcode/tree/master/0868-binary-gap) |
@@ -427,6 +428,7 @@
 | [0213-house-robber-ii](https://github.com/Sagnik120/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
@@ -485,6 +487,7 @@
 | [0415-add-strings](https://github.com/Sagnik120/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Sagnik120/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0492-construct-the-rectangle](https://github.com/Sagnik120/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Sagnik120/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sagnik120/Leetcode/tree/master/0507-perfect-number) |
@@ -1282,15 +1285,18 @@
 ## Memoization
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
