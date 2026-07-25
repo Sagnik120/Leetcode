@@ -1,5 +1,5 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        digits = [int(d) for d in str(n)]
-        digits.sort()
-        return digits[-1] * digits[-2]
+        s=list(str(n))
+        s.sort()
+        return int(s[-1])*int(s[-2])
