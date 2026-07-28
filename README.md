@@ -650,6 +650,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Sagnik120/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/Sagnik120/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sagnik120/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sagnik120/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -924,6 +925,7 @@
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Sagnik120/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sagnik120/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sagnik120/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sagnik120/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
@@ -1307,6 +1309,7 @@
 | [1122-relative-sort-array](https://github.com/Sagnik120/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sagnik120/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sagnik120/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sagnik120/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Memoization
 |  |
 | ------- |
