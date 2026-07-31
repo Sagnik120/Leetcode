@@ -647,6 +647,7 @@
 | [2974-minimum-number-game](https://github.com/Sagnik120/Leetcode/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sagnik120/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/Sagnik120/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sagnik120/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Sagnik120/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -694,6 +695,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sagnik120/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sagnik120/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sagnik120/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sagnik120/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -798,6 +800,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sagnik120/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sagnik120/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/Sagnik120/Leetcode/tree/master/3046-split-the-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sagnik120/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -925,6 +928,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Sagnik120/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sagnik120/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sagnik120/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -1120,6 +1124,7 @@
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sagnik120/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Sagnik120/Leetcode/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sagnik120/Leetcode/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
