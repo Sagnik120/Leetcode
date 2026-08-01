@@ -49,6 +49,7 @@
 | [0414-third-maximum-number](https://github.com/Sagnik120/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sagnik120/Leetcode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sagnik120/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Sagnik120/Leetcode/tree/master/0500-keyboard-row) |
@@ -439,6 +440,7 @@
 | [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
@@ -499,6 +501,7 @@
 | [0441-arranging-coins](https://github.com/Sagnik120/Leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Sagnik120/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Sagnik120/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Sagnik120/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sagnik120/Leetcode/tree/master/0507-perfect-number) |
@@ -1034,6 +1037,7 @@
 | [0206-reverse-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sagnik120/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sagnik120/Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sagnik120/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1336,5 +1340,6 @@
 | ------- |
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
