@@ -81,6 +81,7 @@
 | [0832-flipping-an-image](https://github.com/Sagnik120/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Sagnik120/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Sagnik120/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Sagnik120/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -443,6 +444,7 @@
 | [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -510,6 +512,7 @@
 | [0728-self-dividing-numbers](https://github.com/Sagnik120/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/Sagnik120/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Sagnik120/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Sagnik120/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Sagnik120/Leetcode/tree/master/0908-smallest-range-i) |
@@ -1341,5 +1344,6 @@
 | [0292-nim-game](https://github.com/Sagnik120/Leetcode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
