@@ -106,6 +106,7 @@
 | [1089-duplicate-zeros](https://github.com/Sagnik120/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Sagnik120/Leetcode/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Sagnik120/Leetcode/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sagnik120/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Sagnik120/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -449,6 +450,7 @@
 | [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -467,6 +469,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Sagnik120/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Sagnik120/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sagnik120/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Sagnik120/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -528,6 +531,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/Sagnik120/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sagnik120/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Sagnik120/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Sagnik120/Leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Sagnik120/Leetcode/tree/master/1185-day-of-the-week) |
@@ -1358,13 +1362,16 @@
 | [0486-predict-the-winner](https://github.com/Sagnik120/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
