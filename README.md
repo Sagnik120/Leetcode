@@ -453,6 +453,7 @@
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sagnik120/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sagnik120/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -550,6 +551,7 @@
 | [1399-count-largest-group](https://github.com/Sagnik120/Leetcode/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sagnik120/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sagnik120/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1364,14 +1366,25 @@
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
