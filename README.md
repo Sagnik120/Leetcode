@@ -168,6 +168,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Sagnik120/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sagnik120/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sagnik120/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Sagnik120/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Sagnik120/Leetcode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sagnik120/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -935,6 +936,7 @@
 | [2027-minimum-moves-to-convert-string](https://github.com/Sagnik120/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sagnik120/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sagnik120/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sagnik120/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Sagnik120/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -1018,6 +1020,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sagnik120/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sagnik120/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1291,6 +1294,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Sagnik120/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
