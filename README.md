@@ -152,6 +152,7 @@
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sagnik120/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sagnik120/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -464,6 +465,7 @@
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sagnik120/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sagnik120/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -481,6 +483,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sagnik120/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sagnik120/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Sagnik120/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sagnik120/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -569,6 +572,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sagnik120/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sagnik120/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -1396,6 +1400,7 @@
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sagnik120/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sagnik120/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1404,6 +1409,7 @@
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sagnik120/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1411,6 +1417,7 @@
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sagnik120/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
