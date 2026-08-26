@@ -968,6 +968,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Sagnik120/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sagnik120/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sagnik120/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sagnik120/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -1069,6 +1070,7 @@
 | [1652-defuse-the-bomb](https://github.com/Sagnik120/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sagnik120/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Sagnik120/Leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
