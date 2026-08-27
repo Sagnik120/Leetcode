@@ -740,6 +740,7 @@
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sagnik120/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Sagnik120/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/Sagnik120/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -856,6 +857,7 @@
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sagnik120/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sagnik120/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Sagnik120/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -981,6 +983,7 @@
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3692-majority-frequency-characters](https://github.com/Sagnik120/Leetcode/tree/master/3692-majority-frequency-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sagnik120/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-reverse-string-prefix](https://github.com/Sagnik120/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -1027,6 +1030,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Sagnik120/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sagnik120/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sagnik120/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/Sagnik120/Leetcode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sagnik120/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -1187,6 +1191,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sagnik120/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
