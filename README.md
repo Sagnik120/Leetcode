@@ -456,6 +456,7 @@
 | [0063-unique-paths-ii](https://github.com/Sagnik120/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sagnik120/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/Sagnik120/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Sagnik120/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sagnik120/Leetcode/tree/master/0198-house-robber) |
@@ -895,6 +896,7 @@
 | [0058-length-of-last-word](https://github.com/Sagnik120/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sagnik120/Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Sagnik120/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Sagnik120/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sagnik120/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Sagnik120/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
