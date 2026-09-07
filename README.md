@@ -469,6 +469,7 @@
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sagnik120/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sagnik120/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Sagnik120/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Sagnik120/Leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sagnik120/Leetcode/tree/master/1140-stone-game-ii) |
@@ -946,6 +947,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Sagnik120/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Sagnik120/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/Sagnik120/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/Sagnik120/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Sagnik120/Leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sagnik120/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Sagnik120/Leetcode/tree/master/0953-verifying-an-alien-dictionary) |
