@@ -686,6 +686,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sagnik120/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sagnik120/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -839,6 +840,7 @@
 | [1399-count-largest-group](https://github.com/Sagnik120/Leetcode/tree/master/1399-count-largest-group) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/Sagnik120/Leetcode/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sagnik120/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Sagnik120/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -980,6 +982,7 @@
 | [1370-increasing-decreasing-string](https://github.com/Sagnik120/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sagnik120/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Sagnik120/Leetcode/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sagnik120/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Sagnik120/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -1205,6 +1208,7 @@
 | [1323-maximum-69-number](https://github.com/Sagnik120/Leetcode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sagnik120/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Sagnik120/Leetcode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sagnik120/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Sagnik120/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sagnik120/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
