@@ -155,6 +155,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/Sagnik120/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1720-decode-xored-array](https://github.com/Sagnik120/Leetcode/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sagnik120/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Sagnik120/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sagnik120/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -858,6 +859,7 @@
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sagnik120/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/Sagnik120/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sagnik120/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Sagnik120/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sagnik120/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -1001,6 +1003,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Sagnik120/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/Sagnik120/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Sagnik120/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/Sagnik120/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sagnik120/Leetcode/tree/master/1927-sum-game) |
