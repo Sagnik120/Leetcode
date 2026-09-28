@@ -999,6 +999,7 @@
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sagnik120/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1496-path-crossing](https://github.com/Sagnik120/Leetcode/tree/master/1496-path-crossing) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sagnik120/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sagnik120/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Sagnik120/Leetcode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -1177,6 +1178,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sagnik120/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Sagnik120/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -1524,4 +1526,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
