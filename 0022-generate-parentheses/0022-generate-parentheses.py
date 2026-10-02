@@ -1,15 +1,19 @@
+
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        ans=[]
+        res = []
 
-        def backtrack(curr,open_count,close_count):
-            if len(curr)==2*n:
-                ans.append(curr)
+        def dfs(openP, closeP, s):
+            if openP == closeP and openP + closeP == n * 2:
+                res.append(s)
                 return
-            if open_count<n:
-                backtrack(curr+"(",open_count+1,close_count)
             
-            if close_count<open_count:
-                backtrack(curr+")",open_count,close_count+1)
-        backtrack("",0,0)
-        return ans
+            if openP < n:
+                dfs(openP + 1, closeP, s + "(")
+            
+            if closeP < openP:
+                dfs(openP, closeP + 1, s + ")")
+
+        dfs(0, 0, "")
+
+        return res
