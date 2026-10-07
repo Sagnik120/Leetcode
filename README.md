@@ -949,6 +949,7 @@
 | [0242-valid-anagram](https://github.com/Sagnik120/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sagnik120/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Sagnik120/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Sagnik120/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sagnik120/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sagnik120/Leetcode/tree/master/0383-ransom-note) |
@@ -1076,6 +1077,7 @@
 | [0089-gray-code](https://github.com/Sagnik120/Leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Sagnik120/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sagnik120/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -1346,6 +1348,7 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Sagnik120/Leetcode/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Sagnik120/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sagnik120/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
