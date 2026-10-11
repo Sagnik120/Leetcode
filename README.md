@@ -205,6 +205,7 @@
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Sagnik120/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Sagnik120/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sagnik120/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sagnik120/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2815-max-pair-sum-in-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sagnik120/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -1104,6 +1105,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Sagnik120/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sagnik120/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Sagnik120/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sagnik120/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/Sagnik120/Leetcode/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sagnik120/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sagnik120/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
