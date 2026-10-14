@@ -657,6 +657,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sagnik120/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sagnik120/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sagnik120/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sagnik120/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sagnik120/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sagnik120/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sagnik120/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1308,6 +1309,7 @@
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Sagnik120/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sagnik120/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sagnik120/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Binary Search
