@@ -215,6 +215,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sagnik120/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Sagnik120/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sagnik120/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sagnik120/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2917-find-the-k-or-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sagnik120/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -900,6 +901,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sagnik120/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sagnik120/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sagnik120/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sagnik120/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sagnik120/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sagnik120/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sagnik120/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1142,6 +1144,7 @@
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sagnik120/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sagnik120/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sagnik120/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sagnik120/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sagnik120/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1458,6 +1461,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sagnik120/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sagnik120/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
