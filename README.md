@@ -254,6 +254,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sagnik120/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sagnik120/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-network-recovery-pathways](https://github.com/Sagnik120/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -751,6 +752,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sagnik120/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sagnik120/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sagnik120/Leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sagnik120/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -919,6 +921,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sagnik120/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sagnik120/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sagnik120/Leetcode/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sagnik120/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3606-coupon-code-validator](https://github.com/Sagnik120/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3668-restore-finishing-order](https://github.com/Sagnik120/Leetcode/tree/master/3668-restore-finishing-order) |
