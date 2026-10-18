@@ -144,6 +144,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sagnik120/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sagnik120/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Sagnik120/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Sagnik120/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Sagnik120/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -503,6 +504,7 @@
 | [1406-stone-game-iii](https://github.com/Sagnik120/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sagnik120/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sagnik120/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/Sagnik120/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/Sagnik120/Leetcode/tree/master/1872-stone-game-viii) |
@@ -614,6 +616,7 @@
 | [1510-stone-game-iv](https://github.com/Sagnik120/Leetcode/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sagnik120/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sagnik120/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Sagnik120/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sagnik120/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sagnik120/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -1102,6 +1105,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sagnik120/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sagnik120/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sagnik120/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sagnik120/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1138,6 +1142,7 @@
 | [0169-majority-element](https://github.com/Sagnik120/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sagnik120/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Sagnik120/Leetcode/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1763-longest-nice-substring](https://github.com/Sagnik120/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sagnik120/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sagnik120/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1230,6 +1235,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sagnik120/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sagnik120/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sagnik120/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -1251,6 +1257,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sagnik120/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Sagnik120/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sagnik120/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Greedy
 |  |
@@ -1389,6 +1396,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sagnik120/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sagnik120/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sagnik120/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1486,6 +1494,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Sagnik120/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sagnik120/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sagnik120/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -1532,6 +1541,7 @@
 | [0464-can-i-win](https://github.com/Sagnik120/Leetcode/tree/master/0464-can-i-win) |
 | [0691-stickers-to-spell-word](https://github.com/Sagnik120/Leetcode/tree/master/0691-stickers-to-spell-word) |
 | [1137-n-th-tribonacci-number](https://github.com/Sagnik120/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bitmask
 |  |
 | ------- |
@@ -1591,4 +1601,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sagnik120/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sagnik120/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sagnik120/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sagnik120/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
