@@ -1090,6 +1090,7 @@
 | [3794-reverse-string-prefix](https://github.com/Sagnik120/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Sagnik120/Leetcode/tree/master/3803-count-residue-prefixes) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sagnik120/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sagnik120/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Sagnik120/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Backtracking
 |  |
