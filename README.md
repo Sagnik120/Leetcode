@@ -282,6 +282,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sagnik120/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sagnik120/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Sagnik120/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Sagnik120/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sagnik120/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Sagnik120/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -674,6 +675,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/Sagnik120/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sagnik120/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sagnik120/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Sagnik120/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3945-digit-frequency-score](https://github.com/Sagnik120/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -767,6 +769,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sagnik120/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Sagnik120/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sagnik120/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Sagnik120/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -1136,6 +1139,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sagnik120/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Sagnik120/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3827-count-monobit-integers](https://github.com/Sagnik120/Leetcode/tree/master/3827-count-monobit-integers) |
+| [3886-sum-of-sortable-integers](https://github.com/Sagnik120/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Sagnik120/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Divide and Conquer
 |  |
