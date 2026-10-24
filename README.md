@@ -634,6 +634,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Sagnik120/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sagnik120/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sagnik120/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/Sagnik120/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Sagnik120/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Sagnik120/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sagnik120/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -1058,6 +1059,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Sagnik120/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Sagnik120/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sagnik120/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/Sagnik120/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Sagnik120/Leetcode/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sagnik120/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sagnik120/Leetcode/tree/master/2506-count-pairs-of-similar-strings) |
