@@ -1,6 +1,6 @@
 class Solution:
     def maxProduct(self, nums: list[int]) -> int:
-        INT_MAX=float('-inf')
+        INT_MAX=float("-inf")
         pre=1
         suf=1
         for i in range(0,len(nums)):
