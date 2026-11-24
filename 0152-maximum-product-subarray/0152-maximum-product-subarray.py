@@ -1,14 +1,16 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:
-        maxProd = minProd = ans = nums[0]
+    def maxProduct(self, nums: list[int]) -> int:
+        INT_MAX=float('-inf')
+        pre=1
+        suf=1
+        for i in range(0,len(nums)):
+            if pre==0: 
+                pre=1
+            if suf==0: 
+                suf=1
+            pre*=nums[i]
+            suf*=nums[len(nums)-1-i]
 
-        for num in nums[1:]:
-            if num < 0:
-                maxProd, minProd = minProd, maxProd
-
-            maxProd = max(num, maxProd * num)
-            minProd = min(num, minProd * num)
-
-            ans = max(ans, maxProd)
-
-        return ans
+            INT_MAX = max(INT_MAX, pre, suf)
+            
+        return INT_MAX             
